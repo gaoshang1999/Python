@@ -3,7 +3,7 @@ from openpyxl.utils.dataframe import dataframe_to_rows
 import pandas as pd
 import os
 
-path = "C:/Work/TS001/test/"
+path = "C:/Work/test/"
 xls_file = "merged.xlsx"
 
 workbook = Workbook()
